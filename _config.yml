@@ -13,18 +13,18 @@ img_path: /static/assets/img/blog  # /homepage/static/assets/img/blog
 
 # author -- index page "about me" section
 author:  # change following line to your infomation.
-  name: Johnny Chan  # Be used at blog posts' author.
-  first_name: Johnny  # Be used at index page about me section.
-  last_name: Chan  # Be used at index page about me section.
+  name: Aakash Jhawar  # Be used at blog posts' author.
+  first_name: Aakash  # Be used at index page about me section.
+  last_name: Jhawar  # Be used at index page about me section.
   avatar: /static/assets/img/landing/avatar.jpg  # upload your avatar at directory and edit it.
-  github_username: Atlas7  # Leave blank if you don't have now
-  linkedin_id: johnnycnchan # Leave blank if you don't have now
-  facebook_username: johnnychan0302  # Leave blank if you don't have now
-  twitter_username: jAtlas7  # Leave blank if you don't have now
+  github_username: aakashjhawar  # Leave blank if you don't have now
+  linkedin_id: aakashjhawar # Leave blank if you don't have now
+  facebook_username: aakashjhawar  # Leave blank if you don't have now
+  twitter_username: aakash_jhawar_  # Leave blank if you don't have now
   stackoverflow_id: "4517234" # Leave blank if you don't have now
   stackoverflow_name: atlas7  # Leave blank if you don't have now
-  home2_url: http://mathalope.co.uk # Leave blank if you don't have now
-  email: johnnychan0302@gmail.com  # Leave blank if you don't have now
+  home2_url:  # Leave blank if you don't have now
+  email: aakash.16.jhawar@gmail.com  # Leave blank if you don't have now
   cv: # http://cv.jarrekk.com  # An online CV can be printed as PDF, leave blank if you don't have now
   # skill icons are on avatar's left and right side. Reference urls are http://fontawesome.io/ and http://fizzed.com/oss/font-mfizz
   skill_icon1:
