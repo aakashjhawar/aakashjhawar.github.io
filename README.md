@@ -1,6 +1,6 @@
 [![Build Status](https://travis-ci.org/Atlas7/atlas7.github.io.svg?branch=master)](https://travis-ci.org/Atlas7/atlas7.github.io)
 
-Welcome to my blog: [https://atlas7.github.io/](https://atlas7.github.io/)
+Welcome to my blog: [https://aakashjhawar.github.io/](https://aakashjhawar.github.io/)
 
 It is is built with Jekyll, GitHub Pages, and the [Jalpc Theme](https://github.com/jarrekk/Jalpc)
 (Check out Jalpc for more instructions).
@@ -10,14 +10,6 @@ It is is built with Jekyll, GitHub Pages, and the [Jalpc Theme](https://github.c
 git clone this repository locally to my mac.
 
 Make sure git repository has the appropriate remote:
-
-```
-johnny@Chuns-MacBook-Pro atlas7.github.io (master) $ git remote -v
-origin  https://github.com/Atlas7/atlas7.github.io.git (fetch)
-origin  https://github.com/Atlas7/atlas7.github.io.git (push)
-```
-
-Use an IDE (I use Webstorm, though Sublime text will also do) and a terminal (e.g. iterm2, or Mac Terminal).
 
 Create a new blog post:
 
@@ -35,7 +27,7 @@ jekyll serve
 
 This will serve the blog post locally at [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
 
-Ready to push to [https://atlas7.github.io/](https://atlas7.github.io/)?
+Ready to push to [https://aakashjhawar.github.io/](https://aakashjhawar.github.io/)?
 
 Easy, just do push master to origin:
 
@@ -43,12 +35,10 @@ Easy, just do push master to origin:
 git push origin master
 ```
 
-(or just `git push`). The actual GitHub pages [https://atlas7.github.io/] may take a few seconds to build / update.
+(or just `git push`). The actual GitHub pages [https://aakashjhawar.github.io/] may take a few seconds to build / update.
 
 ### How you may create a blog like this:
 
 Again, please check out the [Jalpc Theme](https://github.com/jarrekk/Jalpc)) - it has all the instructions
 on how to download the base repository and tweak. This is how I got started.
 
-Cheers,
-Johnny

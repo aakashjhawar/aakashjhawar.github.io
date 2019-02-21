@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "My first Jekyll blog on Github pages"
-date:   2017-11-23 18:00:00
+date:   2019-02-21 18:30:00
 desc: "Documentation of how I created my first Jekyll blog hosted on Github pages"
 keywords: "Jalpc,Jekyll,gh-pages,website,blog,easy"
 categories: [HTML]
@@ -31,7 +31,7 @@ How I created this blog:
   - iterate a bit to make the blog looks good.
   - when satisfied, commit the change. i.e. `git add .`, `git commit -m "make it mine"`.
 - Deploy the site to GitHub Pages:
-  - on GitHub, create a new repository called `<github-user>.github.io`. In my case, `atlas7.github.io`.
+  - on GitHub, create a new repository called `<github-user>.github.io`. In my case, `aakashjhawar.github.io`.
   - going back to the repository locally, change the remote path of `origin` to our one. i.e. `git remote set-url https://github.com/<github-user>/<github-user>.github.io`
   - make sure our remote `origin` now points to our own GitHub repository. i.e. `git remote -v`
   - push the local repository to GitHub. i.e. `git push origin master`
@@ -74,12 +74,5 @@ print(c)  # print 30
 ```
 
 Looking good!
-
----
-
-Some previously mentioned now fixed:
-
-- Problem: for some reason when I click on the code snippet it disappears???
-[Fixed - see this GitHub Issue Log](https://github.com/jarrekk/Jalpc/issues/97)
 
 ---
