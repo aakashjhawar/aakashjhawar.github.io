@@ -1,5 +1,3 @@
-[![Build Status](https://travis-ci.org/Atlas7/atlas7.github.io.svg?branch=master)](https://travis-ci.org/Atlas7/atlas7.github.io)
-
 Welcome to my blog: [https://aakashjhawar.github.io/](https://aakashjhawar.github.io/)
 
 It is is built with Jekyll, GitHub Pages, and the [Jalpc Theme](https://github.com/jarrekk/Jalpc)
@@ -7,7 +5,7 @@ It is is built with Jekyll, GitHub Pages, and the [Jalpc Theme](https://github.c
 
 ### How I publish post
 
-git clone this repository locally to my mac.
+git clone this repository locally to my pc.
 
 Make sure git repository has the appropriate remote:
 
