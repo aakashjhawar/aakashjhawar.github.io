@@ -7,7 +7,7 @@
   url: https://github.com/aakashjhawar/SolveSudoku
   gh_user: aakashjhawar
   repo: SolveSudoku
-  img: /static/assets/img/landing/sudoku.jpg
+  img: /static/assets/img/landing/sudoku.png
   desc: >
     A Sudoku Solver using OpenCV. SolveSudoku extracts sudoku from an image and converts it into a 2D matrix. Then it's solution is calculated using Backtracking Algorithm.
 
@@ -24,7 +24,7 @@
   url: https://github.com/aakashjhawar/Handwritten-Digit-Recognition
   gh_user: aakashjhawar
   repo: Handwritten-Digit-Recognition
-  img: /static/assets/img/landing/chatapp.jpg
+  img: /static/assets/img/landing/chatapp.png
   desc: >
     Implemented multilayer CNN using Keras on MNIST dataset. The Neural Network was trained on 60,000 images of 28x28 pixels.
 
@@ -39,7 +39,7 @@
   url: https://github.com/aakashjhawar/todo
   gh_user: aakashjhawar
   repo: todo
-  img: /static/assets/img/landing/chatapp.jpg
+  img: /static/assets/img/landing/chatapp.png
   desc: A web app which can help you to track your daily tasks built using Ruby on Rails.
 
 - name: Image Watermarking
