@@ -6,18 +6,18 @@
 #  i18n:
   url: https://github.com/aakashjhawar/SolveSudoku
   gh_user: aakashjhawar
-  repo: fungai-blog
-  img: 
+  repo: SolveSudoku
+  img: /static/assets/img/landing/sudoku.jpg
   desc: >
     A Sudoku Solver using OpenCV. SolveSudoku extracts sudoku from an image and converts it into a 2D matrix. Then it's solution is calculated using Backtracking Algorithm.
 
-- name: Group chat Web app
+- name: Group Chat Web App
 #  i18n:
-  url: https://github.com/aakashjhawar/chat-app
+  url: https://github.com/aakashjhawar/ChatApp
   gh_user: aakashjhawar
-  repo: fungai-react-ui
-  img: /static/assets/img/landing/fungai_org_icon.png
-  desc: Developed a web app using Ruby on Rails in which multiple users can chat at the same time.
+  repo: ChatApp
+  img: /static/assets/img/landing/chatapp.png
+  desc: A web app using Ruby on Rails in which multiple users can chat at the same time.
 
 #- name: Jalpc
 #  i18n: jalpc
