@@ -19,6 +19,41 @@
   img: /static/assets/img/landing/chatapp.png
   desc: A web app using Ruby on Rails in which multiple users can chat at the same time.
 
+- name: Handwritten Digit Classification
+#  i18n:
+  url: https://github.com/aakashjhawar/Handwritten-Digit-Recognition
+  gh_user: aakashjhawar
+  repo: Handwritten-Digit-Recognition
+  img: /static/assets/img/landing/chatapp.jpg
+  desc: >
+    Implemented multilayer CNN using Keras on MNIST dataset. The Neural Network was trained on 60,000 images of 28x28 pixels.
+
+- name: Tachometer
+#  i18n:
+  url: https://github.com/aakashjhawar/Tachometer
+  gh_user: aakashjhawar
+  repo: Tachometer
+  img: /static/assets/img/landing/chatapp.png
+  desc: Developed a device using Arduino UNO open-source Microcontroller board based on the Microchip ATmega328P which can calculate object’s revolving speed.
+
+  - name: Todo Web App
+#  i18n:
+  url: https://github.com/aakashjhawar/todo
+  gh_user: aakashjhawar
+  repo: todo
+  img: /static/assets/img/landing/chatapp.jpg
+  desc: A web app which can help you to track your daily tasks built using Ruby on Rails.
+
+- name: Image Watermarking
+#  i18n:
+  url: https://github.com/aakashjhawar/Image-Watermarking
+  gh_user: aakashjhawar
+  repo: Image-Watermarking
+  img: /static/assets/img/landing/chatapp.png
+  desc: Implemented Image Watermarking using Discrete Cosine Transformation in MATLAB and Simulink.
+
+
+
 #- name: Jalpc
 #  i18n: jalpc
 #  gh_user: jarrekk
