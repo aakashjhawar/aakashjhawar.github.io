@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: <https://aakashjhawar.github.io/sitemap.xml>
