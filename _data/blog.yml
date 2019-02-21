@@ -6,10 +6,7 @@
 - name: Python
   href: /python/
 
-- name: Javascript
-  href: /javascript/
-
-- name: Machine-learning
+- name: Machine learning
   href: /machine-learning/
 
 - name: Full-stack
@@ -17,19 +14,6 @@
 
 - name: Linux
   href: /linux/
-
-- name: HTML
-  href: /html/
-
-- name: Database
-  href: /database/
-
-- name: Mac
-  href: /mac/
-
-- name: Life
-  href: /life/
-
 
 # blog page sections
 #- name: Blog

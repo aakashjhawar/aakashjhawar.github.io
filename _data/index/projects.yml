@@ -11,45 +11,57 @@
   desc: >
     A Sudoku Solver using OpenCV. SolveSudoku extracts sudoku from an image and converts it into a 2D matrix. Then it's solution is calculated using Backtracking Algorithm.
 
-- name: Group Chat Web App
-#  i18n:
-  url: https://github.com/aakashjhawar/ChatApp
-  gh_user: aakashjhawar
-  repo: ChatApp
-  img: /static/assets/img/landing/chatapp.png
-  desc: A web app using Ruby on Rails in which multiple users can chat at the same time.
-
 - name: Handwritten Digit Classification
 #  i18n:
   url: https://github.com/aakashjhawar/Handwritten-Digit-Recognition
   gh_user: aakashjhawar
   repo: Handwritten-Digit-Recognition
-  img: /static/assets/img/landing/chatapp.png
+  img: /static/assets/img/landing/handwritten.png
   desc: >
     Implemented multilayer CNN using Keras on MNIST dataset. The Neural Network was trained on 60,000 images of 28x28 pixels.
+
+- name: Group Chat Web App
+#  i18n:
+  url: https://github.com/aakashjhawar/ChatApp
+  gh_user: aakashjhawar
+  repo: ChatApp
+  img: /static/assets/img/landing/chat.png
+  desc: A web app using Ruby on Rails in which multiple users can chat at the same time.
 
 - name: Tachometer
   url: https://github.com/aakashjhawar/Tachometer
   gh_user: aakashjhawar
   repo: Tachometer
-  img: /static/assets/img/landing/chatapp.png
+  img: /static/assets/img/landing/tachometer.png
   desc: Developed a device using Arduino UNO open-source Microcontroller board based on the Microchip ATmega328P which can calculate object’s revolving speed.
 
-- name: Todo Web App
-  url: https://github.com/aakashjhawar/todo
+- name: Investry
+  url: https://github.com/aakashjhawar/finance-tracker
   gh_user: aakashjhawar
-  repo: todo
-  img: /static/assets/img/landing/chatapp.png
-  desc: A web app which can help you to track your daily tasks built using Ruby on Rails.
+  repo: finance-tracker
+  img: /static/assets/img/landing/stock.png
+  desc: A web app built using RoR in which users can track stock prices and follow particular stocks according to their choice.
 
 - name: Image Watermarking
   url: https://github.com/aakashjhawar/Image-Watermarking
   gh_user: aakashjhawar
   repo: Image-Watermarking
-  img: /static/assets/img/landing/chatapp.png
+  img: /static/assets/img/landing/watermark.png
   desc: Implemented Image Watermarking using Discrete Cosine Transformation in MATLAB and Simulink.
 
+- name: University App
+  url: https://github.com/aakashjhawar/university-app
+  gh_user: aakashjhawar
+  repo: university-app
+  img: /static/assets/img/landing/university.png
+  desc: A web app built using RoR in which users can view and join University courses.
 
+- name: Todo Web App
+  url: https://github.com/aakashjhawar/todo
+  gh_user: aakashjhawar
+  repo: todo
+  img: /static/assets/img/landing/todo.png
+  desc: A web app which can help you to track your daily tasks built using Ruby on Rails.
 
 #- name: Jalpc
 #  i18n: jalpc
