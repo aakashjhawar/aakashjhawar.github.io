@@ -29,15 +29,13 @@
     Implemented multilayer CNN using Keras on MNIST dataset. The Neural Network was trained on 60,000 images of 28x28 pixels.
 
 - name: Tachometer
-#  i18n:
   url: https://github.com/aakashjhawar/Tachometer
   gh_user: aakashjhawar
   repo: Tachometer
   img: /static/assets/img/landing/chatapp.png
   desc: Developed a device using Arduino UNO open-source Microcontroller board based on the Microchip ATmega328P which can calculate object’s revolving speed.
 
-  - name: Todo Web App
-#  i18n:
+- name: Todo Web App
   url: https://github.com/aakashjhawar/todo
   gh_user: aakashjhawar
   repo: todo
@@ -45,7 +43,6 @@
   desc: A web app which can help you to track your daily tasks built using Ruby on Rails.
 
 - name: Image Watermarking
-#  i18n:
   url: https://github.com/aakashjhawar/Image-Watermarking
   gh_user: aakashjhawar
   repo: Image-Watermarking
