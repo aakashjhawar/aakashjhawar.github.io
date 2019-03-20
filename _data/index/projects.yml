@@ -63,6 +63,16 @@
   img: /static/assets/img/landing/todo.png
   desc: A web app which can help you to track your daily tasks built using Ruby on Rails.
 
+- name: Hand Gesture Recognition
+#  i18n:
+  url: https://github.com/aakashjhawar/https://github.com/aakashjhawar/Hand-Gesture-Recognition
+  gh_user: aakashjhawar
+  repo: Handwritten-Digit-Recognition
+  img: /static/assets/img/landing/hand_gesture.png
+  desc: >
+    Extracted and segmented hand region from live video by thresholding. Count the number of fingers from the segmented hand region by using Convex Hull.
+
+
 #- name: Jalpc
 #  i18n: jalpc
 #  gh_user: jarrekk
