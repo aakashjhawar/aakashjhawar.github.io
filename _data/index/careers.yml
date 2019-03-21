@@ -14,6 +14,31 @@
   icon: fa-plus-square
 
 - name:
+    detail: TEDxLNMIIT
+  desc:
+    detail: >
+      Led a team of designers to design layouts and graphics for the events and social media platform
+  date:
+    detail: OCT 2017 - JAN 2018, Jaipur
+  job:
+    detail: Lead Graphic Designer
+  icon: fa-plus-square
+
+- name:
+    detail: Desportivos'18
+  desc:
+    detail: >
+      Desportivos is Annual Sports Fest of LNMIIT.
+      Responsible for the setup and execution of social media events and managed the social media account.
+      Led a team of graphic designers to design posters and graphics for the fest.
+  date:
+    detail: AUG 2017 - JAN 2018, Jaipur
+  job:
+    detail: Organizing Committee
+  icon: fa-plus-square
+
+
+- name:
     detail: E-Fest APAC 2017
   desc:
     detail: >
@@ -21,7 +46,7 @@
   date:
     detail: OCT 2016 - MAR 2017, Jaipur
   job:
-    detail: Lead Graphic Designer
+    detail: Graphic Designer 
   icon: fa-plus-square
 
 #- name:
