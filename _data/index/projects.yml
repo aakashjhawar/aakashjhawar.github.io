@@ -26,7 +26,8 @@
   gh_user: aakashjhawar
   repo: ChatApp
   img: /static/assets/img/landing/chat.png
-  desc: A web app using Ruby on Rails in which multiple users can chat at the same time.
+  desc: >
+      Achieved real-time messaging by implemented WebSockets with Action Cable. Used Devise gem for authentication. Used Semantic UI framework for front-end development.
 
 - name: Tachometer
   url: https://github.com/aakashjhawar/Tachometer
@@ -40,7 +41,8 @@
   gh_user: aakashjhawar
   repo: finance-tracker
   img: /static/assets/img/landing/stock.png
-  desc: A web app built using RoR in which users can track stock prices and follow particular stocks according to their choice.
+  desc: >
+    A web app built using RoR in which users can track stock prices and follow particular stocks according to their choice. 
 
 - name: Image Watermarking
   url: https://github.com/aakashjhawar/Image-Watermarking
