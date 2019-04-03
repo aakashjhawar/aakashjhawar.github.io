@@ -2,6 +2,24 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: Face Recognition using OpenCV
+#  i18n:
+  url: https://github.com/aakashjhawar/face-recognition-using-opencv
+  gh_user: aakashjhawar
+  repo: face-recognition-using-opencv
+  img: /static/assets/img/landing/face_icon.jpeg
+  desc: >
+    Extracted face embeddings for each face in the image using pretrained OpenFace model. Trained a Linear SVM model on the face embeddings to recognize faces
+
+- name: Fotoxo - A Photo Management App
+#  i18n:
+  url: https://github.com/aakashjhawar/photo-app
+  gh_user: aakashjhawar
+  repo: photo-app
+  img: /static/assets/img/landing/photo_app.png
+  desc: >
+    Used AWS S3 Bucket for storing images in production. Implemented Sendgrid for sending account verification emails. Used Strip API for receiving card payments from users
+
 - name: SolveSudoku
 #  i18n:
   url: https://github.com/aakashjhawar/SolveSudoku
