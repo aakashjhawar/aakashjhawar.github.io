@@ -9,25 +9,32 @@
   repo: face-recognition-using-opencv
   img: /static/assets/img/landing/face_icon.jpeg
   desc: >
-    Extracted face embeddings for each face in the image using pretrained OpenFace model. Trained a Linear SVM model on the face embeddings to recognize faces
+    Extracted face embeddings for each face in the dataset using pretrained OpenFace model. 
+    Trained a Neural Network on the face embeddings to recognize faces with an accuracy of 90%.
 
-- name: Fotoxo - A Photo Management App
-#  i18n:
-  url: https://github.com/aakashjhawar/photo-app
-  gh_user: aakashjhawar
-  repo: photo-app
-  img: /static/assets/img/landing/photo_app.png
-  desc: >
-    Used AWS S3 Bucket for storing images in production. Implemented Sendgrid for sending account verification emails. Used Strip API for receiving card payments from users
 
-- name: SolveSudoku
+- name: SolveSudoku - Sudoku Solver using DL and OpenCV
 #  i18n:
   url: https://github.com/aakashjhawar/SolveSudoku
   gh_user: aakashjhawar
   repo: SolveSudoku
   img: /static/assets/img/landing/sudoku.png
   desc: >
-    A Sudoku Solver using OpenCV. SolveSudoku extracts sudoku from an image and converts it into a 2D matrix. Then it's solution is calculated using Backtracking Algorithm.
+    Extracted sudoku from an image by cropping and warping the largest contour detected in the image.
+    Trained a Neural Network over 60,000 images to identify each digit and store it in a 2D matrix.
+    Final solution of sudoku is calculated using Backtracking Algorithm.
+
+
+- name: Fotoxo - Photo Management App
+#  i18n:
+  url: https://github.com/aakashjhawar/photo-app
+  gh_user: aakashjhawar
+  repo: photo-app
+  img: /static/assets/img/landing/photo_app.png
+  desc: >
+    Implemented Sendgrid for sending account verification emails.
+    Used Strip API for receiving card payments from users and AWS S3 Bucket for storing images in production.
+
 
 - name: Handwritten Digit Classification
 #  i18n:
@@ -36,7 +43,9 @@
   repo: Handwritten-Digit-Recognition
   img: /static/assets/img/landing/handwritten.png
   desc: >
-    Implemented multilayer CNN using Keras on MNIST dataset. The Neural Network was trained on 60,000 images of 28x28 pixels.
+    Implemented multilayer CNN using Keras on MNIST dataset.
+    The Neural Network was trained on 60,000 images of 28x28 pixels.
+    It can classify digits between 0-9.
 
 - name: Hand Gesture Recognition
 #  i18n:
@@ -63,13 +72,14 @@
   img: /static/assets/img/landing/tachometer.png
   desc: Developed a device using Arduino UNO open-source Microcontroller board based on the Microchip ATmega328P which can calculate object’s revolving speed.
 
-- name: Investry
+- name: Investry - Stock Tracker App
   url: https://github.com/aakashjhawar/finance-tracker
   gh_user: aakashjhawar
   repo: finance-tracker
   img: /static/assets/img/landing/stock.png
   desc: >
     A web app built using RoR in which users can track stock prices and follow particular stocks according to their choice. 
+    User can also connect to their friends and loop up their stocks.
 
 - name: Image Watermarking
   url: https://github.com/aakashjhawar/Image-Watermarking
@@ -83,7 +93,7 @@
   gh_user: aakashjhawar
   repo: university-app
   img: /static/assets/img/landing/university.png
-  desc: A web app built using RoR in which users can view and join University courses.
+  desc: A web app built using RoR in which students can view and enroll themselves into the courses.
 
 - name: Todo Web App
   url: https://github.com/aakashjhawar/todo
