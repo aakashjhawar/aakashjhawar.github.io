@@ -5,12 +5,30 @@
     detail: IDfy
   desc:
     detail: >
-      Implemented Gmail API to develop the email communication system of the company. Worked on address verification app named Addressify. Implemented and integrated MailCatcher to test sending email. Squash bugs and handled tickets raised by the ops team.
+      Developed inhouse OCR using Transfer Learning and increased the revenue by 75%.
+      Built Aadhaar Number Masking App with an accuracy of 98.76% and total TAT of 1.04 sec.
+      Implemented RabbitMQ message queues, created Docker image and deployed the app to GCP clusters.
+
+
+  date:
+    detail: May 2019 - July 2019, Mumbai
+  job:
+    detail: Machine Learning Intern
+  icon: fa-plus-square
+
+- name:
+    detail: IDfy
+  desc:
+    detail: >
+      Increased email deliverability rate by implementing Gmail API.
+      Revamped usage of Google Maps Static API in web app and reduced cost.
+      Implemented and integrated MailCatcher to test sending email.
+
 
   date:
     detail: May 2018 - July 2018, Mumbai
   job:
-    detail: Web Developer
+    detail: Web Developer Intern
   icon: fa-plus-square
 
 - name:
