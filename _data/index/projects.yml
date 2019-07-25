@@ -79,28 +79,28 @@
   img: /static/assets/img/landing/stock.png
   desc: >
     A web app built using RoR in which users can track stock prices and follow particular stocks according to their choice. 
-    User can also connect to their friends and loop up their stocks.
+    User can also connect other users and look up their stocks.
 
 - name: Image Watermarking
   url: https://github.com/aakashjhawar/Image-Watermarking
   gh_user: aakashjhawar
   repo: Image-Watermarking
   img: /static/assets/img/landing/watermark.png
-  desc: Implemented Image Watermarking using Discrete Cosine Transformation in MATLAB and Simulink.
+  desc: Implemented Image Watermarking using Discrete Cosine Transformation in MATLAB and Simulink. The Watermark will be added in the frequency domain of the image.
 
 - name: University App
   url: https://github.com/aakashjhawar/university-app
   gh_user: aakashjhawar
   repo: university-app
   img: /static/assets/img/landing/university.png
-  desc: A web app built using RoR in which students can view and enroll themselves into the courses.
+  desc: A web app built using RoR in which students can view and enroll themselves into the multiple courses.
 
 - name: Todo Web App
   url: https://github.com/aakashjhawar/todo
   gh_user: aakashjhawar
   repo: todo
   img: /static/assets/img/landing/todo.png
-  desc: A web app which can help you to track your daily tasks built using Ruby on Rails.
+  desc: A web app which can help you to track your daily tasks built using RoR. A user can add multiple lists and each list can have many items.
 
 
 
