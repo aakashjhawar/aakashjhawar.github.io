@@ -25,7 +25,7 @@ How I created this blog:
     - Install `jekyll` and `bundler` - as per the [jekyll official website](https://jekyllrb.com/)
 - Build the site locally:
   - git clone the repository [Jalpc Jekyll Blog](https://jarrekk.github.io/Jalpc/) to the local macbook
-  - rename the repository to `<github-user>.github.io`. (In my case, `atlas7.github.io`. This is to make it mine)
+  - rename the repository to `<github-user>.github.io`. (In my case, `aakashjhawar.github.io`. This is to make it mine)
   - tweak the related files as instructed in the `README.md` document.
   - use `jekyll serve`, or `bundle exec jekyll serve` to preview blog at [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
   - iterate a bit to make the blog looks good.

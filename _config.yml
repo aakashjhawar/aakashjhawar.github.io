@@ -5,7 +5,7 @@ title: Aakash Jhawar
 description: Joining the dots between Machine Learning and Full Stack Development
 keywords: ai, machine learning, deep learning, Full-stack, Jalpc, blog, Jekyll, github, gh-pages
 
-# option 1 - publish to http://127.0.0.1:4000/ or https://atlas7.github.io
+# option 1 - publish to http://127.0.0.1:4000/ or https://aakashjhawar.github.io
 #baseurl: /   #comment this out entirely. (otherwise CSS issue)
 url: https://aakashjhawar.github.io  # if you have suburl as homepage like '/homepage', please change it to '/homepage' and your repo's name should be 'homepage
 img_path: /static/assets/img/blog  # /homepage/static/assets/img/blog
