@@ -5,8 +5,8 @@
     <description>Joining the dots between Machine Learning and Full Stack Development</description>
     <link>https://aakashjhawar.github.io/</link>
     <atom:link href="https://aakashjhawar.github.io/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 26 Jul 2019 03:04:38 +0530</pubDate>
-    <lastBuildDate>Fri, 26 Jul 2019 03:04:38 +0530</lastBuildDate>
+    <pubDate>Fri, 26 Jul 2019 12:47:31 +0530</pubDate>
+    <lastBuildDate>Fri, 26 Jul 2019 12:47:31 +0530</lastBuildDate>
     <generator>Jekyll v3.1.6</generator>
     
       <item>
@@ -35,7 +35,7 @@ scratch. It’s actually pretty great looking!&lt;/p&gt;
   &lt;li&gt;Build the site locally:
     &lt;ul&gt;
       &lt;li&gt;git clone the repository &lt;a href=&quot;https://jarrekk.github.io/Jalpc/&quot;&gt;Jalpc Jekyll Blog&lt;/a&gt; to the local macbook&lt;/li&gt;
-      &lt;li&gt;rename the repository to &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;github-user&amp;gt;.github.io&lt;/code&gt;. (In my case, &lt;code class=&quot;highlighter-rouge&quot;&gt;atlas7.github.io&lt;/code&gt;. This is to make it mine)&lt;/li&gt;
+      &lt;li&gt;rename the repository to &lt;code class=&quot;highlighter-rouge&quot;&gt;&amp;lt;github-user&amp;gt;.github.io&lt;/code&gt;. (In my case, &lt;code class=&quot;highlighter-rouge&quot;&gt;aakashjhawar.github.io&lt;/code&gt;. This is to make it mine)&lt;/li&gt;
       &lt;li&gt;tweak the related files as instructed in the &lt;code class=&quot;highlighter-rouge&quot;&gt;README.md&lt;/code&gt; document.&lt;/li&gt;
       &lt;li&gt;use &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, or &lt;code class=&quot;highlighter-rouge&quot;&gt;bundle exec jekyll serve&lt;/code&gt; to preview blog at &lt;a href=&quot;http://127.0.0.1:4000/&quot;&gt;http://127.0.0.1:4000/&lt;/a&gt;&lt;/li&gt;
       &lt;li&gt;iterate a bit to make the blog looks good.&lt;/li&gt;
