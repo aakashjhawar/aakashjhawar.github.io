@@ -5,9 +5,11 @@
     detail: IDfy
   desc:
     detail: >
-      Developed inhouse OCR using Transfer Learning and increased the revenue by 75%.
-      Built Aadhaar Number Masking App with an accuracy of 98.76% and total TAT of 1.04 sec.
-      Implemented RabbitMQ message queues, created Docker image and deployed the app to GCP clusters.
+      Developed in-house OCR using Transfer Learning and increased revenue of the product by 70%.
+      Built Aadhaar Number Masking Service with an accuracy of 98.76% and a TAT of 1.04 sec.
+      Implemented RabbitMQ message queues, created and maintained Docker containers on GCP clusters.
+      Won the first prize in a 36hours internal Hackathon.
+
 
 
   date:
