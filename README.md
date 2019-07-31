@@ -17,10 +17,10 @@ Create a new blog post:
 - Write the post in markdown syntax
 - Save post
 
-To preview post:
+To run server:
 
 ```
-jekyll serve
+jekyll server
 ```
 
 This will serve the blog post locally at [http://127.0.0.1:4000/](http://127.0.0.1:4000/)
