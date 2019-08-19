@@ -3,7 +3,7 @@ Welcome to my blog: [https://aakashjhawar.github.io/](https://aakashjhawar.githu
 It is is built with Jekyll, GitHub Pages, and the [Jalpc Theme](https://github.com/jarrekk/Jalpc)
 (Check out Jalpc for more instructions).
 
-### How I publish post
+### How I publish post:
 
 git clone this repository locally to my pc.
 
