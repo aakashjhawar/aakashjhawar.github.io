@@ -33,7 +33,7 @@ author:  # change following line to your infomation.
   skill_icon2:
     - name: fa-linux
     - name: icon-apache
-  desc: Machine Learning enthusiast and a Full Stack Developer on a mission to joining the dots.  # Describe yourself.
+  desc: Machine Learning Engineer and a Full Stack Developer on a mission to joining the dots.  # Describe yourself.
 
 # comment
 #disqus:  # if you wanna comment feature, go to https://disqus.com/ to get your configuration; if not, comment following two lines.
