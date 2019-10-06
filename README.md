@@ -37,6 +37,6 @@ git push origin master
 
 ### How you may create a blog like this:
 
-Again, please check out the [Jalpc Theme](https://github.com/jarrekk/Jalpc)) - it has all the instructions
+Again, please check out the [Jalpc Theme](https://github.com/jarrekk/Jalpc) - it has all the instructions
 on how to download the base repository and tweak. This is how I got started.
 
