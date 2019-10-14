@@ -3,7 +3,6 @@
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
 - name: Identify Commercial Centers using Point of Interest
-#  i18n:
   url: https://aakashjhawar.github.io/commercial-centers-using-POI/
   gh_user: aakashjhawar
   repo: commercial-centers-using-POI/
@@ -14,7 +13,6 @@
     
 
 - name: Face Recognition using OpenCV
-#  i18n:
   url: https://github.com/aakashjhawar/face-recognition-using-opencv
   gh_user: aakashjhawar
   repo: face-recognition-using-opencv
@@ -25,8 +23,7 @@
 
 
 - name: Fotoxo - Photo Management App
-#  i18n:
-  url: https://github.com/aakashjhawar/photo-app
+  url: https://fotoxo.herokuapp.com
   gh_user: aakashjhawar
   repo: photo-app
   img: /static/assets/img/landing/photo_app.png
@@ -36,7 +33,6 @@
 
 
 - name: SolveSudoku - Sudoku Solver using DL and OpenCV
-#  i18n:
   url: https://github.com/aakashjhawar/SolveSudoku
   gh_user: aakashjhawar
   repo: SolveSudoku
@@ -48,7 +44,6 @@
 
 
     - name: Hand Gesture Recognition
-#  i18n:
   url: https://github.com/aakashjhawar/https://github.com/aakashjhawar/Hand-Gesture-Recognition
   gh_user: aakashjhawar
   repo: Hand-Gesture-Recognition
@@ -58,7 +53,6 @@
 
 
 - name: Group Chat Web App
-#  i18n:
   url: https://github.com/aakashjhawar/ChatApp
   gh_user: aakashjhawar
   repo: ChatApp
@@ -68,7 +62,7 @@
 
 
 - name: Investry - Stock Tracker App
-  url: https://github.com/aakashjhawar/finance-tracker
+  url: https://investry.herokuapp.com
   gh_user: aakashjhawar
   repo: finance-tracker
   img: /static/assets/img/landing/stock.png
