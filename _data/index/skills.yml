@@ -6,6 +6,6 @@ id : cs
 #percentage: 100, 35, 65, 80, 70, 90, 50
 
 aspects: Python, Ruby, Golang, C, Git, Docker, RabbitMQ, GCP, Heroku, MATLAB, HTML/CSS/JS, Adobe Illustrator, Computer Vision, Machine Learning
-percentage: 93, 80, 75, 70, 88, 70, 80, 72, 78, 90, 70, 95, 85, 87
+percentage: 85, 79, 65, 70, 85, 65, 70, 65, 78, 89, 70, 89, 72, 77
 
 # Curiosity, Blogging, GitHub, JavaScript, Python, Anaconda, SQL, SAS, Automation, ReactJS, Redux, WordPress, Jekyll, Heroku, Machine Learning, Tensorflow, IoT, Ruby, C++, R, Docker, Vagrant
