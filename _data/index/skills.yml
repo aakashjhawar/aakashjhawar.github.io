@@ -5,7 +5,7 @@ id : cs
 #aspects: GitHub, Motivation, HTML5, ReactJS, Machine Learing, Python, Sleeping
 #percentage: 100, 35, 65, 80, 70, 90, 50
 
-aspects: Python, Ruby, Golang, C, Git, Docker, RabbitMQ, GCP, Heroku, MATLAB, HTML/CSS/JS, Adobe Illustrator, Computer Vision, Machine Learning
+aspects: Python, Ruby, Golang, C/C++, Git, Docker, RabbitMQ, GCP, Heroku, MATLAB, HTML/CSS/JS, Adobe Illustrator, Computer Vision, Machine Learning
 percentage: 85, 79, 65, 70, 85, 65, 70, 65, 78, 89, 70, 89, 72, 77
 
 # Curiosity, Blogging, GitHub, JavaScript, Python, Anaconda, SQL, SAS, Automation, ReactJS, Redux, WordPress, Jekyll, Heroku, Machine Learning, Tensorflow, IoT, Ruby, C++, R, Docker, Vagrant
