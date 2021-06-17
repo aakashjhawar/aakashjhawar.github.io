@@ -1,6 +1,6 @@
 Welcome to my blog: [https://aakashjhawar.github.io/](https://aakashjhawar.github.io/)
 
-It is is built with Jekyll, GitHub Pages, and the [Jalpc Theme](https://github.com/jarrekk/Jalpc)
+It is built with Jekyll, GitHub Pages, and the [Jalpc Theme](https://github.com/jarrekk/Jalpc)
 (Check out Jalpc for more instructions).
 
 ### How I publish post:
