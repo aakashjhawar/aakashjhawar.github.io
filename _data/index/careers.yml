@@ -3,96 +3,42 @@
 
 - name:
     detail: IDfy
-  desc:
-    detail: >
-      Developed in-house OCR using Transfer Learning and increased revenue of the product by 70%.
-      Built Aadhaar Number Masking Service with an accuracy of 98.76% and a TAT of 1.04 sec.
-      Implemented RabbitMQ message queues, created and maintained Docker containers on GCP clusters.
-      Won the first prize in a 36hours internal Hackathon.
+  roles:
+    - name: Shared Services
+      details:
+        - Built custom authentication layer in user sign-in flow to validate the user with client’s token introspection service
+        - Speed up the processes by automating workflows using inhouse CLI built on Thor gem in Ruby
+        - Revamped Rate Limiting Service and boosted the efficiency to allow requests upto a threshold for individual clients
+        - Maximized performance of  API Platform microservices by redesigning the caching mechanism and flows
+        - Conceptualized the end-to-end pipeline for storage on premise - built and deployed the services in the client’s on-premise environment
+    - name: Platform
+      details:
+        - Contributed to the concept of Multiverse (single and multi tenant) where the entire infrastructure can be deployed to a client’s environment
+        - Developed infrastructure in a coded manner (Infrastructure as a Code) using Packer, Terraform and Kustomize
+        - Implemented autoscaling of workloads based on queue depth and other metrics which reduced cost and manual intervention
+        - Introduced Workload Identity and Cloud SQL Auth Proxy to help reduce the potential “blast radius” of a breach or compromise and management overhead
+        - Carried out POC on Anthos by creating a cluster in AWS and managing the configurations from GCP
+        - Shaped monitoring pipelines and alerts across the entire infrastructure using Likerd, Prometheus, VictoriaMetrics, and Grafana
+    - name: Machine Learning
+      details:
+        - Built Inhouse generic  OCR pipeline using Mask RCNN, CRAFT text detection, Paddle text angle classification, Tesseract OCR and NER text classification
+        - Improved Liveness model accuracy by from 78% to 97% using Transfer Learning
+  date:
+    detail: January 2020 - Present, Mumbai
+  job:
+    detail: Senior Software Engineer
+  icon: fa-plus-square
 
-
-
+- name:
+    detail: IDfy
+  roles:
+    - name:
+      details:
+        - Built Aadhaar Number Masking Service to mask PII information on Aadhaar Card using Yolo V3 with an accuracy of 98.76% and a TAT of 1.04 sec
+        - Implemented RabbitMQ message queues, created and maintained Docker containers on GCP clusters
+        - Won the first prize in a 36hours internal Hackathon
   date:
     detail: May 2019 - July 2019, Mumbai
   job:
     detail: Machine Learning Intern
   icon: fa-plus-square
-
-- name:
-    detail: IDfy
-  desc:
-    detail: >
-      Increased email deliverability rate by implementing Gmail API.
-      Revamped usage of Google Maps Static API in web app and reduced cost.
-      Implemented and integrated MailCatcher to test sending email.
-
-
-  date:
-    detail: May 2018 - July 2018, Mumbai
-  job:
-    detail: Web Developer Intern
-  icon: fa-plus-square
-
-- name:
-    detail: TEDxLNMIIT
-  desc:
-    detail: >
-      Led a team of designers to design layouts and graphics for the events and social media platform
-  date:
-    detail: OCT 2017 - JAN 2018, Jaipur
-  job:
-    detail: Lead Graphic Designer
-  icon: fa-plus-square
-
-- name:
-    detail: Desportivos'18
-  desc:
-    detail: >
-      Desportivos is Annual Sports Fest of LNMIIT.
-      Responsible for the setup and execution of social media events and managed the social media account.
-      Led a team of graphic designers to design posters and graphics for the fest.
-  date:
-    detail: AUG 2017 - JAN 2018, Jaipur
-  job:
-    detail: Organizing Committee
-  icon: fa-plus-square
-
-
-- name:
-    detail: E-Fest APAC 2017
-  desc:
-    detail: >
-      E-Fest is Asia’s biggest fest for Mechanical Engineers organized by ASME.
-  date:
-    detail: OCT 2016 - MAR 2017, Jaipur
-  job:
-    detail: Graphic Designer 
-  icon: fa-plus-square
-
-#- name:
-#    detail: Company A
-#    i18n: company_a
-#  desc:
-#    detail: I worked at Company A ...
-#    i18n: company_a_desc
-#  date:
-#    detail: Apr. 2016
-#    i18n: company_a_date
-#  job:
-#    detail: CTO
-#    i18n: company_a_job
-#  icon: fa-plus-square
-#
-#- name:
-#    detail: Company B
-#    i18n: company_b
-#  desc:
-#    detail: I worked at Company B ...
-#    i18n: company_b_desc
-#  date:
-#    detail: Jun. 2015
-#    i18n: company_b_date
-#  job:
-#    detail: Full Stack Developer
-#    i18n: company_b_job
-#  icon: fa-plus-square
