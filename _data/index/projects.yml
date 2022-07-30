@@ -2,6 +2,15 @@
 # If you don't have language feature(language.yml is empty), ignore "i18n" items
 # Suggest projects' img be located at '/static/assets/img/landing', and edit following img items.
 
+- name: AvatarGAN
+  url: https://github.aakashjhawar.com/AvatarGAN/
+  gh_user: aakashjhawar
+  repo: AvatarGAN/
+  img: /static/assets/img/landing/avatargan.png
+  desc: >
+    Generate Cartoon Images using Generative Adversarial Network.
+    Generator learns to make fakes that look real. Discriminator learns to distinguish real from fake.
+
 - name: Identify Commercial Centers using Point of Interest
   url: https://aakashjhawar.github.io/commercial-centers-using-POI/
   gh_user: aakashjhawar
@@ -19,7 +28,7 @@
   img: /static/assets/img/landing/face_icon.jpeg
   desc: >
     Extracted face embeddings for each face in the dataset using pretrained OpenFace model. 
-    Trained a Neural Network on the face embeddings to recognize faces with an accuracy of 90%.
+    Trained a Neural Network to recognize faces with an accuracy of 90%.
 
 
 - name: Fotoxo - Photo Management App
@@ -71,12 +80,12 @@
     User can also connect other users and look up their stocks.
 
 
-- name: Image Watermarking
-  url: https://github.com/aakashjhawar/Image-Watermarking
-  gh_user: aakashjhawar
-  repo: Image-Watermarking
-  img: /static/assets/img/landing/watermark.png
-  desc: Implemented Image Watermarking using Discrete Cosine Transformation in MATLAB and Simulink. The Watermark will be added in the frequency domain of the image.
+# - name: Image Watermarking
+#   url: https://github.com/aakashjhawar/Image-Watermarking
+#   gh_user: aakashjhawar
+#   repo: Image-Watermarking
+#   img: /static/assets/img/landing/watermark.png
+#   desc: Implemented Image Watermarking using Discrete Cosine Transformation in MATLAB and Simulink. The Watermark will be added in the frequency domain of the image.
 
 
 - name: Event Prediction using Sentiment Analysis
