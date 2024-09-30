@@ -42,7 +42,7 @@ author:  # change following line to your infomation.
 # analytics
 #google analytics
 ga:  # if you wanna this feature, go to https://www.google.com/analytics/ to get your configuration; if not, comment following line.
-   id: UA-134843636-1
+   id: G-C1C43H65SM
 
 ## donation
 donation: off  # type 'on'/'off' to choice display donation button at post page or not
